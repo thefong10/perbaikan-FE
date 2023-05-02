@@ -1,0 +1,39 @@
+{
+  "patients": [
+    {
+      "date": "2023-05-08",
+      "name": "Ramdan Hidayat",
+      "age": "22",
+      "polies": "Poliklinik Orthopaedi",
+      "id": 19
+    },
+    {
+      "date": "2023-04-22",
+      "name": "Aditya",
+      "age": "20",
+      "polies": "Poliklinik Bedah Syaraf",
+      "id": 29
+    },
+    {
+      "date": "2023-04-21",
+      "name": "Firada Tahta Winata",
+      "age": "21",
+      "polies": "Poliklinik Bedah Syaraf",
+      "id": 30
+    }
+  ],
+  "polies": [
+    {
+      "id": 1,
+      "name": "Poliklinik Bedah Syaraf"
+    },
+    {
+      "id": 2,
+      "name": "Poliklinik Anak"
+    },
+    {
+      "id": 3,
+      "name": "Poliklinik Orthopaedi"
+    }
+  ]
+}
